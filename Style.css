@@ -73,7 +73,7 @@ header nav>ul>li a:visited {
 
 /***************************** menu level-2 ****************************/
 header nav>ul>li>ul {
-  background-color: rgb(163, 160, 160);
+  background-color: white;
 
   position: absolute;
   top: calc(100% + 25px);
@@ -370,7 +370,7 @@ header nav>ul>li:hover ul {
   display: flex;
   justify-content: space-around;
   flex-direction: row;
-  background-color: #d9d5d5;
+  background-color: #fcf9f9;
   border-radius: 10px;
 }
 
